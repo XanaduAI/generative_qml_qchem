@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+generative_qq/__init__.py
+generative_qq/data.py
+generative_qq/nn.py
+generative_qq/run.py
+generative_qq/utils.py
+generative_qq/vqe.py
+generative_qq.egg-info/PKG-INFO
+generative_qq.egg-info/SOURCES.txt
+generative_qq.egg-info/dependency_links.txt
+generative_qq.egg-info/top_level.txt
